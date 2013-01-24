@@ -1,0 +1,4 @@
+simplemail
+==========
+
+simple mail program
